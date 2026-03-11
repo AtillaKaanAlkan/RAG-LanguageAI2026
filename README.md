@@ -18,6 +18,8 @@ This tutorial notebook **`uat_rag_tutorial.ipynb`** demonstrates three progressi
 | 🟠 **Few-Shot** | Include a few labeled examples in the prompt | A handful | None |
 | 🟢 **RAG** | Dynamically retrieve the most similar labeled abstracts | Large corpus | Embedding model + vector DB |
 
+If you want to learn more about Retrieval-Augmented Generation (RAG) before starting this tutorial, you can read this [post](https://github.com/AtillaKaanAlkan/retrieval-augmented-generation).
+
 ---
 
 ## Motivation
