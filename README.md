@@ -66,7 +66,7 @@ jupyter notebook uat_rag_tutorial-v2.ipynb
 ## Repository Structure
 
 ```
-uat-rag-tutorial/
+RAG-LanguageAI2026/
 ├── uat_rag_tutorial-v2.ipynb   # Main tutorial notebook
 ├── requirements.txt
 ├── .env                     # Your API key (never committed)
