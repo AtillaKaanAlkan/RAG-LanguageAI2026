@@ -5,13 +5,12 @@
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-SciX%20UAT%20Keywords-blue)](https://huggingface.co/datasets/adsabs/SciX_UAT_keywords)
 [![Model](https://img.shields.io/badge/LLM-DeepSeek--Reasoner-green)](https://api.deepseek.com)
 [![NASA ADS](https://img.shields.io/badge/NASA-ADS%20%2F%20SciX-red)](https://ui.adsabs.harvard.edu)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ---
 
 ## Overview
 
-This repository accompanies the tutorial notebook **`uat_rag_tutorial.ipynb`**, which demonstrates three progressively more powerful approaches to UAT keyword assignment:
+This tutorial notebook **`uat_rag_tutorial.ipynb`** demonstrates three progressively more powerful approaches to UAT keyword assignment:
 
 | Approach | Core idea | Data needed | Infrastructure |
 |---|---|---|---|
@@ -35,7 +34,7 @@ We use the [SciX UAT Keywords](https://huggingface.co/datasets/adsabs/SciX_UAT_k
 - **3,025** validation abstracts
 - Each abstract comes with `bibcode`, `title`, `abstract`, and `verified_uat_labels`
 
-Labels are human-verified by domain experts, making this a reliable benchmark.
+Labels correspond to authors assigned keywords.
 
 ---
 
