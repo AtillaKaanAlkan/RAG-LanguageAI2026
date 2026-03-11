@@ -10,7 +10,7 @@
 
 ## Overview
 
-This tutorial notebook **`uat_rag_tutorial.ipynb`** demonstrates three progressively more powerful approaches to UAT keyword assignment:
+This tutorial notebook **`uat_rag_tutorial-v2.ipynb`** demonstrates three progressively more powerful approaches to UAT keyword assignment:
 
 | Approach | Core idea | Data needed | Infrastructure |
 |---|---|---|---|
