@@ -56,7 +56,7 @@ pip install -r requirements.txt
 echo "deepseek_api_key=copy_paste_your_key_here" > .env
 
 # 5. Launch the notebook
-jupyter notebook uat_rag_tutorial.ipynb
+jupyter notebook uat_rag_tutorial-v2.ipynb
 ```
 
 ---
@@ -65,7 +65,7 @@ jupyter notebook uat_rag_tutorial.ipynb
 
 ```
 uat-rag-tutorial/
-├── uat_rag_tutorial.ipynb   # Main tutorial notebook
+├── uat_rag_tutorial-v2.ipynb   # Main tutorial notebook
 ├── requirements.txt
 ├── .env                     # Your API key (never committed)
 ├── .gitignore
